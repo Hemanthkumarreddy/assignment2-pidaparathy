@@ -41,6 +41,8 @@ Naruto
 
 ***
 
+# My personal quotes 
+
 > Always remember that you are absolutely unique. Just like everyone else. -*Margaret Mead*
 
 > Dream big and dare to fail. -*Norman Vaughan*
