@@ -30,7 +30,7 @@ Naruto
 
 ***
 
-### Tables in Markdown are used
+### Tables in Markdown are used to represent the food items or drink that I would recommend someone to drink
 
 | Food items | Locality (area) | Price |  
 | :---: | :---: | :---: |  
