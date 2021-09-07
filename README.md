@@ -55,9 +55,9 @@ Naruto
 
 > A data structure is a particular way of organizing data in a computer so that it can be used effectively. For example, we can store a list of items having the same data-type using the array data structure.
 
-[Click this link ](https://www.geeksforgeeks.org/data-structures/)
+[Click this link to get the quoted words about code fencing](https://www.geeksforgeeks.org/data-structures/)
 
-[Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)
+[Click this link to view Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)
 
   int sum(int v, int tl, int tr, int l, int r) {  
     if (l > r)   
