@@ -17,7 +17,9 @@ Naruto
 5. Reached the destination
 
 - Indian Currency
-- Credit Card and Debit Card
+    - Credit Card
+    - Debit Card
+    - Mobile applications for direct transfer of Money
 - Local friend or Guide
 - DSLR for memories
 - Traditional wear
