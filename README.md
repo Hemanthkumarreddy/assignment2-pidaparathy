@@ -37,4 +37,10 @@ Naruto
 | Puttu (Rice steamed Cake) | Sailu's Food | $3 |  
 | Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |  
 | Coconut Juice | Thiruvendram | $2 |  
-|  Gauva Juice | Cochin | $5 |  
+|  Gauva Juice | Cochin | $5 | 
+
+***
+
+> Always remember that you are absolutely unique. Just like everyone else. -*Margaret Mead*
+
+> Dream big and dare to fail." -*Norman Vaughan*
