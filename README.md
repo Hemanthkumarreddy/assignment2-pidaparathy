@@ -14,11 +14,12 @@ Naruto
 2. Board a connecting flight from Kansas city to Chicago. 
 3. Followed by Chicago to London Heathrow.
 4. Accomplished by the flight London Heathrow to Kerala.
+5. Reached the destination
 
 - Indian Currency
 - Credit Card and Debit Card
 - Local friend or Guide
-- Traditional wear
-- Knowledge about local language
-- Famous and authentic resturants, sceneries and temples
 - DSLR for memories
+- Traditional wear
+- Knowledge about local language, sceneries and temples
+- Famous and authentic resturants
