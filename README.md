@@ -46,3 +46,5 @@ Naruto
 > Always remember that you are absolutely unique. Just like everyone else. -*Margaret Mead*
 
 > Dream big and dare to fail. -*Norman Vaughan*
+
+> Life is 10% what happens to me and 90% of how I react to it. -*Charles Swindoll*
