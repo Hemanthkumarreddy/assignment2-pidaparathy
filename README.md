@@ -27,3 +27,14 @@ Naruto
 - Famous and authentic resturants
 
 [Click this link to navigate to my AboutMe file](https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
+
+***
+
+### Tables in Markdown are used
+
+| Food items | Locality (area) | Price |
+| :===: | :===: | :===: |
+| Puttu (Rice steamed Cake) | Sailu's Food | $3 |
+| Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |
+| Coconut Juice | Thiruvendram | $2 |
+|  Gauva Juice | Cochin | $5 |
