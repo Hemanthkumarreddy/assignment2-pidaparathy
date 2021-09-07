@@ -10,7 +10,7 @@ Naruto
 
 ### Navigation route from Maryville to Kerala
 
-1. Drive through a car from Maryville to Kansas City
-2. Board a connecting flight from Kansas city to Chicago 
-3. Followed by Chicago to London Heathrow
-4. Accomplished by the flight London Heathrow to Kerala
+1. Drive through a car from Maryville to Kansas City.
+2. Board a connecting flight from Kansas city to Chicago. 
+3. Followed by Chicago to London Heathrow.
+4. Accomplished by the flight London Heathrow to Kerala.
