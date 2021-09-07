@@ -32,9 +32,9 @@ Naruto
 
 ### Tables in Markdown are used
 
-| Food items | Locality (area) | Price |
-| :===: | :===: | :===: |
-| Puttu (Rice steamed Cake) | Sailu's Food | $3 |
-| Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |
-| Coconut Juice | Thiruvendram | $2 |
-|  Gauva Juice | Cochin | $5 |
+| Food items | Locality (area) | Price |  
+| :===: | :===: | :===: |  
+| Puttu (Rice steamed Cake) | Sailu's Food | $3 |  
+| Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |  
+| Coconut Juice | Thiruvendram | $2 |  
+|  Gauva Juice | Cochin | $5 |  
