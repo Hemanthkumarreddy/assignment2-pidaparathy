@@ -35,9 +35,11 @@ Naruto
 
 ***
 
-### Tables in Markdown are used to represent the food items or drink that I would recommend someone to drink
+### Markdown Tables 
 
-| Food items | Locality (area) | Price |  
+Tables are used to represent the food items and drinks with their prices and localities that I would recommend someone to drink
+
+#### | Food items | # Locality (area) | Price |  
 | :---: | :---: | :---: |  
 | Puttu (Rice steamed Cake) | Sailu's Food | $3 |  
 | Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |  
