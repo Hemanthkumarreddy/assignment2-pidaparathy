@@ -13,7 +13,7 @@ Naruto
 1. Drive through a car from Maryville to Kansas City.
 2. Board a connecting flight from Kansas city to Chicago. 
 3. Followed by Chicago to London Heathrow.
-    1. AFter reaching Heathrow, if connecting flight is delayed then wait for the flight.
+    1. After reaching Heathrow, if connecting flight is delayed then wait for the flight.
     2. After reaching Heathrow, if connecting flight is missed then book a new flight.
 4. Accomplished by the flight London Heathrow to Kerala.
 5. Reached the destination
