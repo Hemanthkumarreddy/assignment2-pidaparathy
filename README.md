@@ -43,11 +43,11 @@ Tables are used to represent the food items and drinks with their prices and loc
 | Puttu (Rice steamed Cake) | Sailu's Food | $3 |  
 | Parotta and beef | Dharmettan's Beef Curry And Porotta Restaurant | $7 |  
 | Coconut Juice | Thiruvendram | $2 |  
-|  Gauva Juice | Cochin | $5 | 
+| Gauva Juice | Cochin | $5 | 
 
 ***
 
-# My personal quotes 
+# My personal pithy quotes 
 
 > "Always remember that you are absolutely unique. Just like everyone else". -*Margaret Mead*
 
@@ -61,7 +61,7 @@ Tables are used to represent the food items and drinks with their prices and loc
 
 > A data structure is a particular way of organizing data in a computer so that it can be used effectively. For example, we can store a list of items having the same data-type using the array data structure.
 
-[Click this link to get the quoted words about code fencing](https://www.geeksforgeeks.org/data-structures/)
+[Click this link to get the info about source code fencing for data structures](https://www.geeksforgeeks.org/data-structures/)
 
 
     int sum(int v, int tl, int tr, int l, int r) {  
@@ -74,4 +74,4 @@ Tables are used to represent the food items and drinks with their prices and loc
         return sum(v*2, tl, tm, l, min(r, tm)) + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
     }
 
-[Click this link to view Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)    
+[Click this link to view Data Structures source code](https://cp-algorithms.com/data_structures/segment_tree.html)    
