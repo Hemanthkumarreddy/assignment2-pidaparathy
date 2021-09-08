@@ -66,7 +66,8 @@ Tables are used to represent the food items and drinks with their prices and loc
 
 [Click this link to view Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)
 
-'''
+'''  
+
 int sum(int v, int tl, int tr, int l, int r) {  
     if (l > r)   
         return 0;  
@@ -77,4 +78,5 @@ int sum(int v, int tl, int tr, int l, int r) {
     return sum(v*2, tl, tm, l, min(r, tm))  
            + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
 }  
-'''
+
+'''  
