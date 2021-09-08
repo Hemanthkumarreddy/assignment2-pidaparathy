@@ -73,6 +73,5 @@ Tables are used to represent the food items and drinks with their prices and loc
             return t[v];  
         }  
         int tm = (tl + tr) / 2;  
-        return sum(v*2, tl, tm, l, min(r, tm))  
-            + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
+        return sum(v*2, tl, tm, l, min(r, tm)) + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
     }
