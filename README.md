@@ -48,7 +48,7 @@ Tables are used to represent the food items and drinks with their prices and loc
 
 ***
 
-# My personal favourite quotes 
+# My personal quotes 
 
 > Always remember that you are absolutely unique. Just like everyone else. -*Margaret Mead*
 
