@@ -28,7 +28,9 @@ Naruto
 - Knowledge about local language, sceneries and temples
 - Famous and authentic restaurants
 
-[Click here to navigate to my AboutMe file](https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
+[![Click anywhere on this Image to navigate to my AboutMe](Naruto.jpg)](https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
+
+[Click this link to navigate to my AboutMe file](https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
 
 ***
 
