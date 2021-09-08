@@ -28,7 +28,7 @@ Naruto
 - Knowledge about local language, sceneries and temples
 - Famous and authentic restaurants
 
-![Image](Naruto.jpg)
+![Image](Naruto.jpg)(https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
 
 
 [Click this link to navigate to my AboutMe file](https://github.com/Hemanthkumarreddy/assignment2-pidaparathy/blob/e45f31b7ea67a9c83aa47bcbc7358ad5c9437871/AboutMe.md)
@@ -64,7 +64,6 @@ Tables are used to represent the food items and drinks with their prices and loc
 
 [Click this link to get the quoted words about code fencing](https://www.geeksforgeeks.org/data-structures/)
 
-[Click this link to view Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)
 
     int sum(int v, int tl, int tr, int l, int r) {  
         if (l > r)   
@@ -75,3 +74,5 @@ Tables are used to represent the food items and drinks with their prices and loc
         int tm = (tl + tr) / 2;  
         return sum(v*2, tl, tm, l, min(r, tm)) + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
     }
+
+[Click this link to view Data Structures Code](https://cp-algorithms.com/data_structures/segment_tree.html)    
