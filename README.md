@@ -74,4 +74,4 @@ Tables are used to represent the food items and drinks with their prices and loc
         return sum(v*2, tl, tm, l, min(r, tm)) + sum(v*2+1, tm+1, tr, max(l, tm+1), r);  
     }
 
-[Click this link to view the above mentioned source code of Data Structures](https://cp-algorithms.com/data_structures/segment_tree.html)  
+[Click this link to view the above mentioned source code of Data Structures](https://cp-algorithms.com/data_structures/segment_tree.html)
